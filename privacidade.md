@@ -1,39 +1,68 @@
-Política de privacidade da MLOG
+**Política de Privacidade**
 
-    Na MLOG, uma das nossas principais prioridades é a privacidade dos nossos visitantes. Este documento de Política de Privacidade contém os tipos de informação que são recolhidos e registados pela MLOG e a forma como os utilizamos.
+Esta política de privacidade é aplicável ao aplicativo Multi App Entrega para dispositivos móveis, que foi desenvolvido pelo Grupo Multitecnica como um serviço gratuito. Este serviço é fornecido "COMO ESTÁ".
 
-    Se tiver questões adicionais ou necessitar de mais informações sobre a nossa Política de Privacidade, não hesite em contactar-nos.
+**Que informações o Aplicativo obtém e como são utilizadas?**  
+**Informações Fornecidas pelo Usuário**
 
-Políticas de privacidade
+O Aplicativo adquire as informações que você fornece ao baixar e registrar o Aplicativo. O registro com o Provedor de Serviço não é obrigatório. No entanto, tenha em mente que você pode não conseguir utilizar alguns dos recursos oferecidos pelo Aplicativo a menos que se registre.
 
-    Pode consultar esta lista para encontrar a Política de Privacidade de cada um dos parceiros publicitários da MLOG.
+O Provedor de Serviço também pode usar as informações que você forneceu para contatá-lo de tempos em tempos para fornecer informações importantes, avisos necessários e promoções de marketing.
 
-    Servidores de anúncios de terceiros ou redes de anúncios usam tecnologias como cookies, JavaScript ou Beacons que são usados nos seus respectivos anúncios e links que aparecem na MLOG. Eles recebem automaticamente o seu endereço IP quando isso ocorre. Estas tecnologias são utilizadas para medir a eficácia das suas campanhas publicitárias e/ou para personalizar o conteúdo publicitário que vê nesta aplicação ou noutras aplicações ou websites.
+**Informações Coletadas Automaticamente**
 
-    Note que a MLOG não tem acesso ou controle sobre estes cookies que são utilizados por anunciantes terceiros.
+Além disso, o Aplicativo pode coletar certas informações automaticamente, incluindo, mas não se limitando ao tipo de dispositivo móvel que você usa, o ID exclusivo do seu dispositivo móvel, o endereço IP do seu dispositivo móvel, seu sistema operacional móvel, e informações sobre como você usa o Aplicativo.
 
-Acesso à localização 
+**O Aplicativo coleta informações de localização em tempo real do dispositivo?**
 
-    Este app coleta dados de local, quando o app está fechado ou não está em uso, no qual é utilizado para identificar a localização do usuário responsável pela entrega do produto, e será compartilhada com outros usuários e partes interessadas no percurso do usuário no processo de distribuição do produto. Utilização da Câmera: O Mlog pode requerer acesso à câmera do seu dispositivo para funcionalidades específicas, como a captura de imagens para identificação de itens ou documentação logística. Todas as imagens capturadas serão utilizadas exclusivamente para os fins operacionais do aplicativo e não serão compartilhadas sem sua autorização
+Este Aplicativo coleta a localização do seu dispositivo, o que ajuda o Provedor de Serviço a determinar sua localização geográfica aproximada e utilizá-la das seguintes maneiras:
 
-Compromisso do Usuário 
+*   Serviços de Geolocalização: Identificar a localização do usuário responsável pela entrega do produto, e será compartilhada com outros usuários e partes interessadas no percurso do usuário no processo de distribuição do produto.
 
-    O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o MLOG oferece no site e com caráter enunciativo, mas não limitativo: 
-        • A) Não se envolver em atividades que sejam ilegais ou contrárias à boa fé à ordem pública; 
-        • B) Não difundir propaganda ou conteúdo de natureza racista, xenofóbica ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos; 
-        • C) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do MLOG, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
+**O Aplicativo faz o uso da camera e audio?**
 
-Políticas de privacidade de terceiros
+O Aplicativo pode requerer acesso à câmera ou audio do seu dispositivo para funcionalidades específicas, empresa pode utilizá-la das seguintes maneiras:
 
-    A Política de Privacidade da MLOG não se aplica a outros anunciantes ou websites. Assim, aconselhamos a consulta das respectivas Políticas de Privacidade desses servidores de anúncios de terceiros para obter informações mais detalhadas. Estas podem incluir as suas práticas e instruções sobre como optar por sair de determinadas opções.
+*   Captura de imagens ou audio para identificação de itens ou documentação logística.
+  
+Todas as imagens capturadas serão utilizadas exclusivamente para os fins operacionais do aplicativo e não serão compartilhadas sem sua autorização.
 
-    Informações para crianças
-    Outra parte da nossa prioridade é acrescentar proteção para as crianças enquanto utilizam a Internet. Encorajamos os pais e encarregados de educação a observar, participar e/ou monitorizar e orientar a sua atividade online.
+**Compromisso do Usuário**
 
-    A MLOG não recolhe intencionalmente qualquer informação pessoal identificável de crianças com idade inferior a 13 anos. Se pensa que o seu filho forneceu este tipo de informação na nossa aplicação, encorajamo-lo vivamente a contactar-nos imediatamente e faremos os nossos melhores esforços para remover prontamente essa informação dos nossos registos.
-    
-Consentimento
-    Ao utilizar a nossa aplicação, o utilizador consente com a nossa Política de Privacidade e concorda com os seus Termos e Condições.
+ O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o Aplicativo oferece no site e com caráter enunciativo, mas não limitativo: 
+* Não se envolver em atividades que sejam ilegais ou contrárias à boa fé à ordem pública; 
+* Não difundir propaganda ou conteúdo de natureza racista, xenofóbica ou azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos; 
+* Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do Aplicativo, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados.
 
-Mais informações Esperemos que esteja esclarecido e, como mencionado anteriormente, se houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro deixar os cookies ativados, caso interaja com um dos recursos que você usa em nosso site. Esta política é efetiva a partir de 4 de Janeiro de 2024
+**Informações para crianças**
+
+Nossa prioridade é acrescentar proteção para as crianças enquanto utilizam a Internet. Encorajamos os pais e encarregados de educação a observar, participar e/ou monitorizar e orientar a sua atividade online.
+
+A Aplicativo não recolhe intencionalmente qualquer informação pessoal identificável de crianças com idade inferior a 13 anos. Se pensa que o seu filho forneceu este tipo de informação na nossa aplicação, encorajamo-lo vivamente a contactar-nos imediatamente e faremos os nossos melhores esforços para remover prontamente essa informação dos nossos registos.
+
+**Quais são meus direitos de opt-out?**
+
+Você pode interromper toda a coleta de informações pelo Aplicativo facilmente desinstalando o Aplicativo. Você pode usar os processos de desinstalação padrão disponíveis como parte do seu dispositivo móvel ou através do mercado ou rede de aplicativos móveis.
+
+**Política de Retenção de Dados, Gerenciamento de Suas Informações**
+
+O Provedor de Serviço reterá os dados fornecidos pelo usuário enquanto você usar o Aplicativo e por um tempo razoável depois. O Provedor de Serviço reterá informações coletadas automaticamente por até 24 meses e, posteriormente, poderá armazená-las em agregado. Se você gostaria que o Provedor de Serviço excluísse os dados fornecidos pelo usuário que você forneceu por meio do Aplicativo, entre em contato com eles pelo e-mail rafaelteixeirabarcante@gmail.com e eles responderão em um tempo razoável. Por favor, note que alguns ou todos os dados fornecidos pelo usuário podem ser necessários para o funcionamento adequado do Aplicativo.
+
+**Segurança**
+
+O Provedor de Serviço está preocupado em proteger a confidencialidade de suas informações. O Provedor de Serviço fornece salvaguardas físicas, eletrônicas e processuais para proteger as informações que processamos e mantemos. Por exemplo, limitamos o acesso a essas informações a funcionários e contratados autorizados que precisam conhecer essas informações para operar, desenvolver ou melhorar nosso Aplicativo. Por favor, esteja ciente de que, embora nos esforcemos para fornecer segurança razoável para as informações que processamos e mantemos, nenhum sistema de segurança pode prevenir todas as violações de segurança potenciais.
+
+**Alterações**
+
+Esta Política de Privacidade pode ser atualizada de tempos em tempos por qualquer motivo. O Provedor de Serviço notificará você de quaisquer alterações à Política de Privacidade atualizando esta página com a nova Política de Privacidade. Você é aconselhado a consultar esta Política de Privacidade regularmente para quaisquer alterações, pois o uso continuado é considerado aprovação de todas as alterações.
+
+Esta política de privacidade é eficaz a partir de 2024-07-11
+
+**Seu Consentimento**
+
+Ao usar o Aplicativo, você está dando seu consentimento para o Provedor de Serviço processar suas informações conforme estabelecido nesta Política de Privacidade agora e conforme emendado por nós. "Processamento" significa usar cookies em um dispositivo de computador/mão ou usar ou tocar informações de qualquer maneira, incluindo, mas não se limitando a, coletar, armazenar, excluir, usar, combinar e divulgar informações.
+
+**Entre em contato conosco**
+
+Se você tiver alguma dúvida sobre privacidade ao usar o Aplicativo ou tiver dúvidas sobre as práticas, entre em contato com o Provedor de Serviço via e-mail em rafaelteixeirabarcante@gmail.com.
 
